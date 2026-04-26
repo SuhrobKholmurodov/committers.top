@@ -21,7 +21,7 @@ users:
     name: "EmmoDev"
     login: "kainerd"
     avatarUrl: https://avatars.githubusercontent.com/u/173632374?u=42a62cb6c59ff66707454966f6f09f16fb2f1b3f&v=4
-    contributions: 12
+    contributions: 8
     company: ""
     organizations: ""
 
@@ -262,7 +262,7 @@ users_public_contributions:
     name: "EmmoDev"
     login: "kainerd"
     avatarUrl: https://avatars.githubusercontent.com/u/173632374?u=42a62cb6c59ff66707454966f6f09f16fb2f1b3f&v=4
-    contributions: 20
+    contributions: 13
     company: ""
     organizations: ""
 
@@ -504,7 +504,7 @@ private_users:
     name: "EmmoDev"
     login: "kainerd"
     avatarUrl: https://avatars.githubusercontent.com/u/173632374?u=42a62cb6c59ff66707454966f6f09f16fb2f1b3f&v=4
-    contributions: 33
+    contributions: 14
     company: ""
     organizations: ""
 
@@ -741,7 +741,7 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2026-04-21T19:01:25Z
+generated: 2026-04-26T01:22:01Z
 min_followers_required: 0
 total_user_count: 30
 title: South Sudan
